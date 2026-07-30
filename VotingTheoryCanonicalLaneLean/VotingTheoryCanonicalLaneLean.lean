@@ -1,0 +1,10 @@
+import VotingTheoryCanonicalLaneLean.AdmissibleClass
+import VotingTheoryCanonicalLaneLean.BridgeLemmas
+import VotingTheoryCanonicalLaneLean.GateLemmas
+import VotingTheoryCanonicalLaneLean.FinalTheorem
+
+namespace HautevilleHouse
+namespace VotingTheoryCanonicalLaneLean
+
+end HautevilleHouse
+end VotingTheoryCanonicalLaneLean
